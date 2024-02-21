@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Assassin Creed</string>
+    <string name="titulo1">Assassin Creed I</string>
+    <string name="titulo2">Assassin Creed II</string>
+    <string name="titulo3">AC Brother Hood</string>
+    <string name="titulo4">AC Relevation</string>
+    <string name="titulo5">Assassin Creed III</string>
+    <string name="titulo6">Assassin Creed IV Black Flag</string>
+    <string name="titulo7">Assassin Creed Rogue</string>
+    <string name="titulo8">Assassin Creed Unity</string>
+    <string name="titulo9">Assassin Creed Syndicate</string>
+    <string name="titulo10">Assassin Creed Origins</string>
+    <string name="protagonista1">Altair</string>
+    <string name="protagonista2">Ezio Auditore</string>
+    <string name="protagonista3">Ezio Auditore</string>
+    <string name="protagonista4">Ezio Auditore</string>
+    <string name="protagonista5">Connor Ratonhnhaké:ton Kenway</string>
+    <string name="protagonista6">Edward Kenway</string>
+    <string name="protagonista7">Shay Cormac</string>
+    <string name="protagonista8">Arno Dorian</string>
+    <string name="protagonista9">Evie y Jacob Frye</string>
+    <string name="protagonista10">Bayek De Siwa</string>
+    <string name="sinopsis1">Un hombre entra en una máquina llamada Animus para revivir los recuerdos de su antepasado, un asesino del siglo XII llamado Altair.</string>
+    <string name="sinopsis2">Desmond Miles es entrenado para convertirse en un Asesino moderno a través de los recuerdos resucitados de su antepasado Ezio Auditore da Firenze, quien descubre una masiva conspiración templaria en la Italia del Renacimiento que conduce al nuevo Papa.</string>
+    <string name="sinopsis3">Desmond Miles sigue viajando por los recuerdos de Ezio Auditore, llevándolo a la Roma de principios de siglo con Ezio reconstruyendo la orden de asesinos para acabar con el tiránico gobierno de los Borgia.</string>
+    <string name="sinopsis4">Ezio viaja a Constantinopla, en el apogeo del Imperio Otomano, para descubrir la verdad sobre su antepasado, Altair, que le ayudará a recuperar una poderosa arma oculta en Masyaf, la antigua fortaleza de los asesinos.</string>
+    <string name="sinopsis5">Las colonias americanas, 1775. Es una época de disturbios civiles y agitación política en América. Mientras un nativo americano lucha por proteger su tierra y a su pueblo, encenderá las llamas de la revolución de una joven nación. 2012: Premios del Sindicato de Guionistas (WGA): Nominada a Mejor guion en un videojuego.</string>
+    <string name="sinopsis6">Es el año 1715. Los piratas controlan el Caribe y han establecido una República sin ley gobernada por la corrupción, la avaricia y la crueldad. Entre ellos convive un joven capitán llamado Edward Kenway.</string>
+    <string name="sinopsis7">Tendiendo un puente entre Assassin\'s Creed IV y III, la tragedia y el fracaso obligan a Shay Cormac a cuestionar su propio Credo. El Asesino se convierte en Templario y se embarca en una búsqueda de venganza y revelación personal, durante la Guerra de los Siete Años.</string>
+    <string name="sinopsis8">París, 1789. Juegas como Arno Victor-Dorian, un asesino durante la Revolución Francesa. Mientras la nación se desgarra, Arno desenmascarará a los verdaderos poderes de la Revolución.</string>
+    <string name="sinopsis9">La historia se desarrolla en París, 1789. Juegas como Arno Victor-Dorian, un asesino durante la Revolución Francesa. Mientras la nación se desgarra, Arno desenmascarará a los verdaderos poderes de la Revolución</string>
+    <string name="sinopsis10">Precuela de la saga Assassin\'s Creed ambientada en el Egipto del 48 a.C., donde Bayek, un Medjay, inicia la fundación de la Hermandad de Asesinos</string>
+    <string name="expandir">Enseñar protagonista</string>
+    <string name="trailer">Trailer</string>
+    <string name="antagonista1">Al Mualim</string>
+    <string name="antagonista2">Rodrigo Borgia</string>
+    <string name="antagonista3">Cesar Borgia</string>
+    <string name="antagonista4">príncipe Ahmed</string>
+    <string name="antagonista5">Charles Lee</string>
+    <string name="antagonista6">Benjamin Hornigold</string>
+    <string name="antagonista7">Achilles Davenport</string>
+    <string name="antagonista8">François-Thomas Germain</string>
+    <string name="antagonista9">Crawford Starrick</string>
+    <string name="antagonista10">Cesar</string>
+    <string name="trailer1">https://www.youtube.com/watch?v=7pV4oMKY4rs</string>
+    <string name="trailer2">https://www.youtube.com/watch?v=a12e3iKzqlw</string>
+    <string name="trailer3">https://www.youtube.com/watch?v=zzNs4-kRLaE</string>
+    <string name="trailer4">https://www.youtube.com/watch?v=8-Ixo7QXw_E</string>
+    <string name="trailer5">https://www.youtube.com/watch?v=-pUhraVG7Ow</string>
+    <string name="trailer6">https://www.youtube.com/watch?v=OwVe4ZNeQZk</string>
+    <string name="trailer7">https://www.youtube.com/watch?v=LtadqOZz3zM</string>
+    <string name="trailer8">https://www.youtube.com/watch?v=xzCEdSKMkdU</string>
+    <string name="trailer9">https://www.youtube.com/watch?v=Wq1WfPRLG0s</string>
+    <string name="trailer10">https://www.youtube.com/watch?v=cUuKIpCM2o0</string>
+    <string name="animusPedia">Wiki</string>
+    <string name="animusPedia1">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed</string>
+    <string name="animusPedia2">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed_II</string>
+    <string name="animusPedia3">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_La_Hermandad</string>
+    <string name="animusPedia4">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_Revelations</string>
+    <string name="animusPedia5">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed_III</string>
+    <string name="animusPedia6">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed_IV:_Black_Flag</string>
+    <string name="animusPedia7">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_Rogue</string>
+    <string name="animusPedia8">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_Unity</string>
+    <string name="animusPedia9">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_Syndicate</string>
+    <string name="animusPedia10">https://assassinscreed.fandom.com/es/wiki/Assassin%27s_Creed:_Origins</string>
+</resources>

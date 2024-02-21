@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_min">2dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_big">72dp</dimen>
+    <dimen name="padding_midEnormous">90dp</dimen>
+    <dimen name="padding_enormous">120dp</dimen>
+    <dimen name="protagonist_photo">200dp</dimen>
+</resources>
