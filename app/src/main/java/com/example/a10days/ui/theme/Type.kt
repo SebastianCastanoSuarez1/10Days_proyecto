@@ -12,7 +12,9 @@ val CrimSonPro = FontFamily(
     Font(R.font.crimsonpro_bold),
     Font(R.font.crimsonpro_regular)
 )
-
+val poppins = FontFamily(
+    Font(R.font.poppins_bold),
+)
 // Set of Material typography styles to start with
 val Typography = Typography(
     displayLarge = TextStyle(
@@ -21,7 +23,7 @@ val Typography = Typography(
         fontSize = 36.sp
     ),
     displayMedium = TextStyle(
-        fontFamily = CrimSonPro,
+        fontFamily = poppins,
         fontWeight = FontWeight.Bold,
         fontSize = 20.sp
     ),
