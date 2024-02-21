@@ -26,6 +26,7 @@ val Typography = Typography(
         fontFamily = poppins,
         fontWeight = FontWeight.Bold,
         fontSize = 20.sp
+
     ),
     labelSmall = TextStyle(
         fontFamily = CrimSonPro,
